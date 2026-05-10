@@ -6,7 +6,7 @@
 
 * [Tools and Methodology](#tools-and-methodology)
 
-* [Business Question](#business-question)
+* [Business Questions](#business-questions)
   
 * [Dataset Overview](#dataset-overview)
   
